@@ -45,7 +45,7 @@ export class ButcherShop extends Component {
     return (
       <div className='butcher-shop'>
         <p>Hello! We have the following products for sale today:</p>
-        
+
       </div>
     )
   }
