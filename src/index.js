@@ -19,7 +19,7 @@ export class OlderCoaster extends Component {
       </div>
     )
   }
-  
+
 }
 
 export class InFrontOfYou extends Component {
