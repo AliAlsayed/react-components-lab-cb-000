@@ -60,6 +60,7 @@ export class App extends Component {
     return (
       <div id="app">
         <oldercoaster />
+        <InFrontOfYou />
       </div>
     )
   }
